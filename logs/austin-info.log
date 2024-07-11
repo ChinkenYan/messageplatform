@@ -13,3 +13,22 @@
 2024-07-10 17:34:25.199 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 2024-07-10 17:34:25.200 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
 2024-07-10 17:34:29.186 [http-nio-8080-exec-2] INFO  yxz.maven.web.web.TestController - 压力太大我好难受
+2024-07-10 22:52:30.936 [main] INFO  yxz.maven.web.AustinApplication - Starting AustinApplication using Java 1.8.0_412 on yanxuezhi with PID 30116 (E:\javaproject\austin-yxz\austin-web\target\classes started by 21115 in E:\javaproject\austin-yxz)
+2024-07-10 22:52:30.937 [main] INFO  yxz.maven.web.AustinApplication - No active profile set, falling back to default profiles: default
+2024-07-10 22:52:31.216 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 22:52:31.224 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2024-07-10 22:52:31.406 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-07-10 22:52:31.410 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 22:52:31.410 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-10 22:52:31.410 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2024-07-10 22:52:31.459 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-10 22:52:31.459 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 506 ms
+2024-07-10 22:52:31.525 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-07-10 22:52:36.652 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 22:52:36.672 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+2024-07-10 22:52:36.762 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-07-10 22:52:36.801 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-07-10 22:52:41.821 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-07-10 22:52:41.826 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
